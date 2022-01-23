@@ -1,0 +1,65 @@
+body {
+    background-color: skyblue;
+}
+
+.text-center {
+    color: white;
+}
+
+.card-hd {
+    padding-left: 4px;
+}
+
+.form {
+    width: 50%;
+    margin-right: 3px;
+}
+
+title {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.row {
+padding-left: 10px;
+}
+
+span {
+    display:inline-flex;
+}
+
+.container {
+    background-color:white;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding-bottom: 100px;
+    width:80%;
+}
+
+.card {
+    background-color: skyblue;
+    color: black;
+}
+
+.container-weather {
+    height: 300px;
+    color: white;
+    background-color: lightgrey;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.weather-sec {
+ width: 80%;   
+}
+
+.weather-icon img {
+    display: block;
+    margin: 0 auto;
+}
+
+.container-forecast {
+    padding:20px;
+}
+
