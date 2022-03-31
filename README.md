@@ -11,5 +11,8 @@ Next you will add the city and press the binoculars icon to search that city.
 This will then show the weather for today in the big grey section and then below in the blue boxes the 5 day forecast will show. 
 <img src='/images/ss3.png' alt='Screen shot of the final procuct'>
 
+## License 
+MIT
+
 ## Contact
 You can contact me via email tomsterlingjames@outlook.com.au
