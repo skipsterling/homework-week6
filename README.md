@@ -1,4 +1,4 @@
-# homework-week6
+# homework-week6 / Weather App
 
 ## Description
 This app was created to track the weather in your area. Finding the weather in your area and the forecast for the next 5 days. To help you dress accordingly. Technologies use HTML, CSS, JS, openweathermap.org API. View the application click<a href="https://skipsterling.github.io/homework-week6/">Here</a>
