@@ -3,6 +3,9 @@
 ## Description
 This app was created to track the weather in your area. Finding the weather in your area and the forecast for the next 5 days. To help you dress accordingly. Technologies use HTML, CSS, JS, openweathermap.org API. View the application click<a href="https://skipsterling.github.io/homework-week6/">Here</a>
 
+## Technologies Used
+html, css, js
+
 ## Usage
 Upon opening the webpage you will be presented with an alert asking you for access to your current location.
 <img src='/images/ss1.png' alt='Screen shot of page'>
